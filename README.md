@@ -62,7 +62,7 @@
 | [**Torido**](https://github.com/I3mal-Team/torido-backend) | Ride-hailing app for Saudi Arabia: rider & driver registration, instant booking, ride tracking and an admin dashboard for drivers, rides and payments | PHP · Laravel |
 | [**Siwaan**](https://github.com/I3mal-Team/siwaan-api) | Travel & attractions booking system with online reservations, secure authentication and a central admin dashboard | PHP · Laravel |
 | [**Car Wash Booking**](https://github.com/I3mal-Team/car-wash) | Booking and management system for car wash services with reservations and admin panel (MVC) | PHP · Laravel |
-| [**Advertisup Landing Page**](https://github.com/barakat567/landing-page/tree/after-translate) | Bilingual (Arabic/English) landing page with a fully dynamic admin dashboard to manage all content without code changes | PHP · Laravel |
+| [**Advertisup Landing Page**](https://github.com/barakat567/landing-page/tree/after-translate) · [Live website](https://www.advertisup.com/) | Bilingual (Arabic/English) landing page with a fully dynamic admin dashboard to manage all content without code changes | PHP · Laravel |
 
 ---
 
